@@ -1,10 +1,11 @@
 int x = 20;
 int y = 18;
+Int z = 10;
 if (x > y) {
   System.out.println("x is greater than y");
 }
-
-// archivo 2
+//This is a comments
+// archivo 20
 
 else {
   System.out.println("y is greater than x");
